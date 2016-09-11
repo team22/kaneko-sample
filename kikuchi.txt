@@ -7,3 +7,10 @@
 
 よろしく！　by はるのり
 >>thank you!
+
+CONFLICT (content): Merge conflict in kikuchi.txt
+Automatic merge failed; fix conflicts and then commit the result.
+vagrant@vagrant-ubuntu-trusty:/vagrant/kaneko-sample$ git add .
+vagrant@vagrant-ubuntu-trusty:/vagrant/kaneko-sample$ git commit -m "resolve conflict"
+[master 23d4c33] resolve conflict
+vagrant@vagrant-ubuntu-trusty:/vagrant/kaneko-sample$ 
